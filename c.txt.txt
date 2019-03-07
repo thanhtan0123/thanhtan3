@@ -1,0 +1,4 @@
+ho: vuong
+ten:minh thong
+sdt:000000
+truong: dh cong nghiep
